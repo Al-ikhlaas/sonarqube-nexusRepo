@@ -6,7 +6,7 @@ sudo apt update
 cd /opt
 
 # Install Java (if not already installed)
-sudo apt install openjdk-8-jre-headless -y
+sudo apt install openjdk-17-jre-headless -y
 
 # Download Nexus Repository Manager
 wget https://download.sonatype.com/nexus/3/latest-unix.tar.gz
